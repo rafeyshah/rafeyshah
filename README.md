@@ -21,7 +21,7 @@ A full-stack TypeScript platform where small groups read the same book at their 
 <a href="https://gawainbook.onrender.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-demo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-demo-light.svg"><img src="assets/btn-demo-dark.svg" alt="Live demo" height="36"></picture></a>&nbsp;
 <a href="https://github.com/rafeyshah/GawainBook-SocialMediaApp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-source-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-source-light.svg"><img src="assets/btn-source-dark.svg" alt="Source code" height="36"></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gawainbook-stats-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/gawainbook-stats-light.svg?v=2"><img src="assets/gawainbook-stats-dark.svg?v=2" alt="GawainBook by the numbers: 1,100+ automated tests; spoiler lock in SQL; CSRF-hardened auth; live on Render" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gawainbook-metrics-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gawainbook-metrics-light.svg"><img src="assets/gawainbook-metrics-dark.svg" alt="GawainBook by the numbers: 1,100+ automated tests; spoiler lock in SQL; CSRF-hardened auth; live on Render" width="100%"></picture>
 
 <details>
 <summary>Screenshots, features &amp; architecture</summary>
@@ -53,7 +53,7 @@ A full-stack TypeScript platform where small groups read the same book at their 
 
 Built at the FAU Pattern Recognition Lab: a pipeline that transcribes multi-font historical documents and predicts the font group of every character — from dataset validation and normalisation to benchmarking, fine-tuning and ensembling.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gothiread-stats-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/gothiread-stats-light.svg?v=2"><img src="assets/gothiread-stats-dark.svg?v=2" alt="GothiRead results: 1.3% text CER, 2.1% font-group CER, 17.9k lines evaluated, 6 OCR models benchmarked" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gothiread-metrics-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gothiread-metrics-light.svg"><img src="assets/gothiread-metrics-dark.svg" alt="GothiRead results: 1.3% text CER, 2.1% font-group CER, 17.9k lines evaluated, 6 OCR models benchmarked" width="100%"></picture>
 
 <br/>
 
