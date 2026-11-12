@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:2EA44F&height=170&section=header&text=Abdul%20Rafey&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20%C2%B7%20MSc%20Data%20Science%20%40%20FAU&descAlignY=56&descSize=17" width="100%" alt="Abdul Rafey — Full-Stack Engineer · MSc Data Science @ FAU"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=I+ship+full-stack+TypeScript+products+end+to+end.;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+PyTorch;Open+to+Full-Stack%2C+Werkstudent+%26+Master's+thesis+roles" alt="I ship full-stack TypeScript products end to end"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafeyshah/rafeyshah/raw/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafeyshah/rafeyshah/raw/main/assets/header-light.svg">
+  <img src="https://github.com/rafeyshah/rafeyshah/raw/main/assets/header-dark.svg" width="100%" alt="Abdul Rafey — Full-Stack Engineer · MSc Data Science @ FAU · Open to work, Nuremberg">
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -142,5 +142,3 @@ An end-to-end pipeline that transcribes multi-font historical documents *and* pr
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rafeyshah&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,45:1F6FEB,100:0D1117&height=90&section=footer" width="100%" alt=""/>
