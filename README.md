@@ -51,14 +51,7 @@ open_to:   [Full-Stack / SWE roles, Werkstudent (15–20 h/week), Master's thesi
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafeyshah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafeyshah&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117" alt="Top languages"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=rafeyshah&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafeyshah&bg_color=0D1117&color=58A6FF&line=2EA44F&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt=""/>
