@@ -12,6 +12,12 @@
 
 <br/>
 
+## Experience
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg"><img src="assets/experience-dark.svg" alt="Experience: Full-Stack Engineer at LeanoSol (2026–now); Working Student, IT Support & SysAdmin at Refair IT (2024); Software Engineer at Discretelogix (2023–24); Data Science Intern at IPRI (2022); Full-Stack Web Developer Intern (2021). Education: MSc Data Science at FAU (in progress); BS Computer Science. Languages: English (fluent), German (A2)" width="100%"></picture>
+
+<br/>
+
 ## Featured project
 
 ### [GawainBook](https://github.com/rafeyshah/GawainBook-SocialMediaApp) — reading circles without spoilers
@@ -70,12 +76,6 @@ Built at the FAU Pattern Recognition Lab: a pipeline that transcribes multi-font
 ## Toolbox
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg"><img src="assets/toolbox-dark.svg" alt="Toolbox — Frontend: TypeScript, JavaScript, React, HTML & CSS, Material UI. Backend: Node.js, Express, PostgreSQL, Drizzle ORM, MongoDB. ML/Data: Python, PyTorch, Hugging Face, scikit-learn, pandas. Testing & Ops: Jest, Playwright, GitHub Actions, Render, Linux" width="100%"></picture>
-
-<br/>
-
-## Experience
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg"><img src="assets/experience-dark.svg" alt="Experience: Full-Stack Engineer at LeanoSol (2026–now); Working Student, IT Support & SysAdmin at Refair IT (2024); Software Engineer at Discretelogix (2023–24); Data Science Intern at IPRI (2022); Full-Stack Web Developer Intern (2021). Education: MSc Data Science at FAU (in progress); BS Computer Science. Languages: English (fluent), German (A2)" width="100%"></picture>
 
 <br/>
 
