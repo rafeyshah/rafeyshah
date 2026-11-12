@@ -1,91 +1,45 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header-dark.svg" alt="Abdul Rafey — Full-Stack Engineer · MSc Data Science @ FAU · Open to work, Nuremberg" width="100%"></picture>
+### Abdul Rafey
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"><img src="assets/btn-linkedin-dark.svg" alt="LinkedIn" height="44"></picture></a>&nbsp;
-  <a href="mailto:dev.abdulrafey@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg"><img src="assets/btn-email-dark.svg" alt="Email me" height="44"></picture></a>
-</p>
+Full-stack engineer in Nuremberg. I build web products in TypeScript and machine-learning pipelines in Python.  
+Currently a Full-Stack Engineer at LeanoSol and an MSc Data Science student at FAU Erlangen-Nürnberg.
 
-<p align="center">
-  I build full-stack products that are <b>tested, secure and shipped</b> —<br/>
-  and ML pipelines that are <b>measured, not just trained</b>.
-</p>
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [Email](mailto:dev.abdulrafey@gmail.com)
 
 <br/>
 
-## `01` &nbsp;Featured project
+#### Selected work
 
-<a href="https://gawainbook.onrender.com"><img src="https://github.com/rafeyshah/GawainBook-SocialMediaApp/raw/master/docs/banner.svg" width="100%" alt="GawainBook — a social network for book lovers"/></a>
+**[GawainBook](https://github.com/rafeyshah/GawainBook-SocialMediaApp)** — reading circles without spoilers  
+A social platform where small groups read the same book and every discussion unlocks chapter by chapter. Access rules are enforced in SQL, sessions are hashed and CSRF-protected, and the codebase has 1,100+ automated tests.  
+<sub>TypeScript · React · Node.js · PostgreSQL · Drizzle · Playwright — [live demo](https://gawainbook.onrender.com)</sub>
 
-### GawainBook — reading circles without spoilers
+**[GothiRead](https://github.com/rafeyshah/gothi-read)** — OCR for historical Gothic scripts  
+Research at the FAU Pattern Recognition Lab. Transcribes multi-font documents and predicts each character's font group: 1.3% character error rate on text, 2.1% on font groups across 17.9k lines.  
+<sub>Python · PyTorch · Hugging Face · PaddleOCR</sub>
 
-A full-stack TypeScript platform where small groups read the same book at their own pace. Every discussion, reply, search result and notification stays **locked until you reach that chapter** — enforced in one access policy and again in SQL, so locked content never leaves the database.
+**[NASA-404](https://github.com/rafeyshah/NASA-404)** — versioned REST API with CSV ingestion, Node clustering and Jest tests  
+<sub>Node.js · Express · MongoDB</sub>
 
-<a href="https://gawainbook.onrender.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-demo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-demo-light.svg"><img src="assets/btn-demo-dark.svg" alt="Live demo" height="44"></picture></a>&nbsp;
-<a href="https://github.com/rafeyshah/GawainBook-SocialMediaApp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-source-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-source-light.svg"><img src="assets/btn-source-dark.svg" alt="Source code" height="44"></picture></a>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gawainbook-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gawainbook-stats-light.svg"><img src="assets/gawainbook-stats-dark.svg" alt="GawainBook by the numbers: 1,100+ automated tests; spoiler lock in SQL; CSRF-hardened auth; live on Render" width="100%"></picture>
-
-<table>
-  <tr>
-    <td width="40%"><img src="https://github.com/rafeyshah/GawainBook-SocialMediaApp/raw/master/docs/screenshots/circle.png" alt="Reading circle with progress and locked chapters"/></td>
-    <td width="40%"><img src="https://github.com/rafeyshah/GawainBook-SocialMediaApp/raw/master/docs/screenshots/discussion.png" alt="Chapter discussion with replies"/></td>
-    <td width="20%"><img src="https://github.com/rafeyshah/GawainBook-SocialMediaApp/raw/master/docs/screenshots/mobile-circle.png" alt="Mobile view"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Reading circle · locked chapters</sub></td>
-    <td align="center"><sub>Chapter discussion</sub></td>
-    <td align="center"><sub>Mobile</sub></td>
-  </tr>
-</table>
-
-<details>
-<summary><b>Features &amp; architecture</b></summary>
-<br/>
-
-| What it does | How it's built |
-|---|---|
-| Public & invite-only reading circles with organiser and moderator roles | React 17 + Express on Node 22, TypeScript end to end |
-| Spoiler-locked discussions and a "who's where" progress view | PostgreSQL on Neon via Drizzle ORM, committed SQL migrations |
-| Library with shelves, chapter progress and Open Library search | httpOnly session cookies (SHA-256 hashed), double-submit CSRF, bcrypt, Helmet |
-| Social feed — photo posts, spoiler covers, comments, likes, follows | Private S3-compatible photo storage with presigned URLs |
-| Reporting, blocking, admin moderation and rate limits | Jest, Supertest, React Testing Library, Playwright · CI → Render |
-
-</details>
+**[DineRank](https://github.com/rafeyshah/DineRank-RestaurantRating)** — restaurant-rating prediction across four markets  
+<sub>Python · pandas · scikit-learn</sub>
 
 <br/>
 
-## `02` &nbsp;Research
+#### Experience
 
-### GothiRead — OCR &amp; font recognition for historical Gothic scripts
-
-Built at the **FAU Pattern Recognition Lab**: an end-to-end pipeline that transcribes multi-font historical documents *and* predicts the font group of every character — from dataset validation and grapheme-level normalisation to benchmarking, fine-tuning and ensembling.
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gothiread-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gothiread-stats-light.svg"><img src="assets/gothiread-stats-dark.svg" alt="GothiRead results: 1.3% text CER, 2.1% font-group CER, 17.9k lines evaluated, 6 OCR models benchmarked" width="100%"></picture>
-
-<a href="https://github.com/rafeyshah/gothi-read"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-source-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-source-light.svg"><img src="assets/btn-source-dark.svg" alt="Source code" height="44"></picture></a>
+Full-Stack Engineer, LeanoSol — <sub>2026–now</sub>  
+Working Student, IT Support & SysAdmin, Refair IT — <sub>2024</sub>  
+Software Engineer, Discretelogix — <sub>2023–2024</sub>  
+Data Science Intern, IPRI — <sub>2022</sub>
 
 <br/>
 
-## `03` &nbsp;More projects
+#### Stack
 
-| | Project | Stack |
-|---|---|---|
-| **[NASA-404](https://github.com/rafeyshah/NASA-404)** | Mission-control REST API with versioning, CSV ingestion, Node clustering and Jest/Supertest tests | Node.js · Express · MongoDB |
-| **[VocareWebApp](https://github.com/rafeyshah/VocareWebApp)** | Calendar-based appointment management system | TypeScript · React |
-| **[DineRank](https://github.com/rafeyshah/DineRank-RestaurantRating)** | Restaurant-rating prediction across 4 markets — EDA, feature engineering, model comparison | Python · scikit-learn |
+TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, MongoDB  
+Python, PyTorch, Hugging Face, scikit-learn, pandas  
+Jest, Playwright, GitHub Actions, Linux
 
 <br/>
 
-## `04` &nbsp;Toolbox
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg"><img src="assets/toolbox-dark.svg" alt="Toolbox — Frontend: TypeScript, JavaScript, React, HTML & CSS, Material UI. Backend: Node.js, Express, PostgreSQL, Drizzle ORM, MongoDB. ML/Data: Python, PyTorch, Hugging Face, scikit-learn, pandas. Testing & Ops: Jest, Playwright, GitHub Actions, Render, Linux" width="100%"></picture>
-
-<br/>
-
-## `05` &nbsp;Experience
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg"><img src="assets/experience-dark.svg" alt="Experience: Full-Stack Engineer at LeanoSol (2026–now); Working Student, IT Support & SysAdmin at Refair IT (2024); Software Engineer at Discretelogix (2023–24); Data Science Intern at IPRI (2022); Full-Stack Web Developer Intern (2021). Education: MSc Data Science at FAU (in progress); BS Computer Science. Languages: English (fluent), German (A2)" width="100%"></picture>
-
-<br/>
-
-<a href="mailto:dev.abdulrafey@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cta-light.svg"><img src="assets/cta-dark.svg" alt="Open to Full-Stack / SWE roles, Werkstudent (15–20 h/week) and a Master's thesis in ML / Document AI — get in touch" width="100%"></picture></a>
+<sub>Open to full-stack roles, Werkstudent positions (15–20 h/week) and a Master's thesis in ML / Document AI.</sub>
