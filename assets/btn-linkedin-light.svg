@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-label="LinkedIn">
 <defs><style>.pl{animation:p 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes p{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:0;transform:scale(2.2)}}</style></defs>
-<rect x="0.5" y="0.5" width="143" height="43" rx="21.5" fill="#0969DA" stroke="#0969DA"/>
-<rect x="18" y="11" width="22" height="22" rx="5" fill="#FFFFFF"/><text x="29" y="27.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="800" fill="#0969DA">in</text>
-<text x="50" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#FFFFFF">LinkedIn</text>
+<rect x="0.5" y="0.5" width="143" height="43" rx="21.5" fill="#F6F8FA" stroke="#D1D9E0"/>
+<rect x="18" y="11" width="22" height="22" rx="5" fill="#0969DA"/><text x="29" y="27.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">in</text>
+<text x="50" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#1F2328">LinkedIn</text>
 </svg>

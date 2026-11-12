@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="153" height="44" viewBox="0 0 153 44" role="img" aria-label="Live demo">
 <defs><style>.pl{animation:p 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes p{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:0;transform:scale(2.2)}}</style></defs>
 <rect x="0.5" y="0.5" width="152" height="43" rx="21.5" fill="#161B22" stroke="#30363D"/>
-<circle class="pl" cx="29" cy="22" r="6" fill="#3FB950"/><circle cx="29" cy="22" r="6" fill="#3FB950"/>
+<circle cx="29" cy="22" r="5" fill="#3FB950"/>
 <text x="50" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Live demo</text>
 </svg>

@@ -22,7 +22,6 @@
 <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#30363D"/>
 <!-- status pill -->
 <rect x="64" y="34" width="236" height="32" rx="16" fill="#161B22" stroke="#30363D"/>
-<circle class="pulse" cx="86" cy="50" r="6" fill="#2EA44F"/>
 <circle cx="86" cy="50" r="5" fill="#2EA44F"/>
 <text x="100" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#8B949E"><tspan fill="#E6EDF3">Open to work</tspan> · Nuremberg, DE</text>
 <!-- name -->
@@ -35,5 +34,5 @@
 <text x="1120" y="85" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8B949E">about.ts</text>
 <line x1="760" y1="98" x2="1144" y2="98" stroke="#30363D"/>
 <text x="788" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve"><tspan fill="#FF7B72">const </tspan><tspan fill="#79C0FF">rafey</tspan><tspan fill="#8B949E"> = {</tspan></text><text x="788" y="148" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve"><tspan fill="#79C0FF">  builds</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"full-stack TS products"</tspan><tspan fill="#8B949E">,</tspan></text><text x="788" y="172" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve"><tspan fill="#79C0FF">  trains</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"PyTorch models"</tspan><tspan fill="#8B949E">,</tspan></text><text x="788" y="196" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve"><tspan fill="#79C0FF">  based</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"Nuremberg, DE"</tspan><tspan fill="#8B949E">,</tspan></text><text x="788" y="220" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve"><tspan fill="#79C0FF">  status</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"open to work"</tspan></text><text x="788" y="244" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" xml:space="preserve"><tspan fill="#8B949E">};</tspan></text>
-<rect class="cur" x="808" y="232" width="9" height="18" fill="#1F6FEB"/>
+<rect x="808" y="232" width="9" height="18" fill="#1F6FEB"/>
 </svg>
