@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-label="Email me">
+<defs><style>.pl{animation:p 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes p{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:0;transform:scale(2.2)}}</style></defs>
+<rect x="0.5" y="0.5" width="143" height="43" rx="21.5" fill="#F6F8FA" stroke="#D1D9E0"/>
+<rect x="18" y="13" width="22" height="17" rx="3" fill="none" stroke="#1F2328" stroke-width="2"/><path d="M19 15 l10 8 l10 -8" fill="none" stroke="#1F2328" stroke-width="2" stroke-linejoin="round"/>
+<text x="50" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#1F2328">Email me</text>
+</svg>
